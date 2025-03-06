@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1740542403 source:c:\users\aman nsu\downloads\225 lab\225 all lab practice\practice 1\conversion.cpp
+	"Conversion.h"
+	<iostream>
+
+1740542263 c:\users\aman nsu\downloads\225 lab\225 all lab practice\practice 1\conversion.h
+
+1740542479 source:c:\users\aman nsu\downloads\225 lab\225 all lab practice\practice 1\main.cpp
+	<iostream>
+	"Conversion.h"
+
+1740542403 c:\users\aman nsu\downloads\225 lab\225 all lab practice\practice 1\conversion.cpp
+	"Conversion.h"
+	<iostream>
+
